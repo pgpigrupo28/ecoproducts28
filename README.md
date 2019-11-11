@@ -1,1 +1,1 @@
-# ecoproducts28
+# Proyecto basado en WooCommerce (PGPI grupo 28)
